@@ -1,0 +1,13 @@
+Step 1: Install required libraries
+pip install rembg Pillow
+
+Step 2: Write the Python code
+
+Step 3: Obtain an input image
+You need an input image from which you want to remove the background. Save the image to a location on your system.
+
+Step 4: Run the function
+The script will read the input image, remove the background using the "rembg" library, and save the result to the specified output path.
+
+Step 5: Check the output
+Open the output image specified in "output_image_path" to verify that the background has been successfully removed.
